@@ -1,0 +1,11 @@
+{
+  "name": "com.gilzoide.webgl-emscripten-settings",
+  "displayName": "WebGL Emscripten settings",
+  "version": "1.0.0",
+  "description": "Adds PlayerSettings.WebGL.emscriptenArgs to the Project Settings UI",
+  "homepage": "https://github.com/gilzoide/unity-webgl-emscripten-settings",
+  "license": "Unlicense",
+  "author": {
+    "name": "Gil Barbosa Reis"
+  }
+}
