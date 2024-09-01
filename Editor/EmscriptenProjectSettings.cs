@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Gilzoide.EmscriptenSettings.Editor
+namespace Gilzoide.WebGLEmscriptenSettings.Editor
 {
     public class EmscriptenProjectSettings
     {

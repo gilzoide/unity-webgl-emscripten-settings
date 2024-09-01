@@ -1,6 +1,6 @@
 {
-    "name": "Gilzoide.EmscriptenSettings.Editor",
-    "rootNamespace": "Gilzoide.EmscriptenSettings.Editor",
+    "name": "Gilzoide.WebGLEmscriptenSettings.Editor",
+    "rootNamespace": "Gilzoide.WebGLEmscriptenSettings.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
